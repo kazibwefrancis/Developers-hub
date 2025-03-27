@@ -1,4 +1,6 @@
+Here’s the final version of your README with the GitHub URL included:  
 
+---
 
 # Flutter Development Assignment  
 
@@ -10,9 +12,33 @@ The project structure includes multiple Flutter projects, each representing diff
 
 - `basicui` - Basic UI development with login screen.  
 - `counterapp` - State management and basic interactivity.  
-- `developers-hub` - (Any additional related project work).  
+- `developers-hub` - (Main project repository).  
 - `taskapp` - Final task management app.  
 - `Todolistapp` - Persistent storage and task list app.  
+
+## Setup Instructions  
+
+### 1. Install Flutter and Required Tools  
+Ensure you have Flutter installed on your system:  
+- Download and install Flutter from [Flutter’s official website](https://flutter.dev/docs/get-started/install).  
+- Install either **Android Studio** or **Visual Studio Code** with the Flutter extension.  
+- Ensure you have an emulator or a physical device for testing.  
+
+### 2. Clone the Repository  
+```bash
+git clone https://github.com/kazibwefrancis/Developers-hub.git
+cd Developers-hub
+```
+
+### 3. Run the App  
+Navigate into the specific project folder (e.g., `basicui`) and run:  
+```bash
+flutter pub get
+flutter run
+```
+This will fetch dependencies and launch the app on the connected device/emulator.  
+
+---
 
 ## Weekly Breakdown  
 
@@ -32,6 +58,3 @@ The project structure includes multiple Flutter projects, each representing diff
 - Implement features for adding, deleting, and marking tasks as complete.  
 - Enhance UI and test/debug the app.  
 
- 
-
----
