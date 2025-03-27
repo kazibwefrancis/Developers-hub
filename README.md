@@ -4,11 +4,9 @@ Here’s the final version of your README with the GitHub URL included:
 
 # Flutter Development Assignment  
 
-## Overview  
-This assignment is designed to help interns learn the basics of Flutter development, UI design, data management, and app functionality over a three-week period. The goal is to build a functional task management app with persistent storage.  
 
 ## Folder Structure  
-The project structure includes multiple Flutter projects, each representing different tasks and concepts covered in the assignment:  
+i placed the project in one repo having folders each with the assignments from week 1 through 3.The project structure includes multiple Flutter projects, each representing different tasks and concepts covered in the assignment:  
 
 - `basicui` - Basic UI development with login screen.  
 - `counterapp` - State management and basic interactivity.  
