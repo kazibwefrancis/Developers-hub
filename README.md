@@ -1,6 +1,3 @@
-Here’s the final version of your README with the GitHub URL included:  
-
----
 
 # Flutter Development Assignment  
 
