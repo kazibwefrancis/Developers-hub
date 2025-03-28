@@ -40,6 +40,4 @@ flutter run
 📂 A functional To-Do List app with local storage  
 📂 GitHub repository with this README  
 
----
 
-Let me know if you need any modifications! 🚀
