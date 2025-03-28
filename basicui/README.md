@@ -42,6 +42,4 @@ flutter run
 📂 Form validation for email and password  
 📂 GitHub repository with this README  
 
----
 
-Let me know if you need any changes! 🚀
