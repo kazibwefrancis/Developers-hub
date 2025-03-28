@@ -1,6 +1,4 @@
-Here's a **README** file for your `counterapp` Flutter assignment:  
 
----
 
 ### **CounterApp - Flutter Assignment**  
 
