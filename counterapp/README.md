@@ -42,6 +42,4 @@ flutter run
 📂 Data persistence using `SharedPreferences`  
 📂 GitHub repository with this README  
 
----
 
-Let me know if you need modifications! 🚀
