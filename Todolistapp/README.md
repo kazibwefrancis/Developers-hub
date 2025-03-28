@@ -1,19 +1,45 @@
-# Todo_listapp
 
-A new Flutter project created with FlutLab - https://flutlab.io
+### **ToDoListApp - Flutter Assignment**  
 
-## Getting Started
+#### **📌 Overview**  
+This project is a simple **To-Do List app** that demonstrates:  
+✅ State management using `setState`  
+✅ Saving and retrieving tasks using `SharedPreferences`  
+✅ Displaying tasks in a `ListView`  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+### **📌 Features**  
+✔️ **Add tasks** using a text input field  
+✔️ **Display tasks** in a `ListView`  
+✔️ **Save tasks** using `SharedPreferences` to persist data  
+✔️ **Retrieve tasks** on app restart  
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
 
-## Getting Started: FlutLab - Flutter Online IDE
+### **📌 Setup Instructions**  
+1️⃣ **Install Flutter** (if not already installed)  
+   - Follow [Flutter's official installation guide](https://flutter.dev/docs/get-started/install)  
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+2️⃣ **Clone this repository:**  
+```sh
+git clone https://github.com/kazibwefrancis/Developers-hub.git
+cd Developers-hub/Todolistapp
+```
+
+3️⃣ **Open in VS Code or Android Studio**  
+
+4️⃣ **Run the app:**  
+```sh
+flutter run
+```
+
+---
+
+### **📌 Deliverables**  
+📂 A functional To-Do List app with local storage  
+📂 GitHub repository with this README  
+
+---
+
+Let me know if you need any modifications! 🚀
